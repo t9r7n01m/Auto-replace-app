@@ -49,5 +49,3 @@ Free
 Download and extract the ZIP file, then run the EXE file inside the folder.
 
 A Windows security warning may appear when you launch the app for the first time. Please verify the download source and the file before running it.
-
-Translated with DeepL.com (free version)
